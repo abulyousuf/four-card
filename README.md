@@ -1,1 +1,3 @@
-# four-card
+# Four card feature section
+
+Code review exercise
